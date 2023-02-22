@@ -13,6 +13,16 @@
   }
 }
 
+.charts {
+  text-align: center;
+}
+
+.chart {
+  border: solid #589636 1px;
+  margin: 5px;
+  display: inline-block;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
